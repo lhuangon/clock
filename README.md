@@ -1,2 +1,3 @@
 # clock
- Criação de um relógio analógico em css e js
+ 
+Relógio Analógico com CSS e JavaScript
